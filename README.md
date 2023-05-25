@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Uka Yura</h1>
 <h3 align="center">A passionate fullstack developer from Mongolia KHB</h3>
+<div class="tenor-gif-embed" data-postid="15306651" data-share-method="host" data-aspect-ratio="1.73913" data-width="100%"><a href="https://tenor.com/view/doraemon-magic-device-gif-15306651">Doraemon Magic GIF</a>from <a href="https://tenor.com/search/doraemon-gifs">Doraemon GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
 
-<iframe src="https://giphy.com/embed/aNqEFrYVnsS52" width="480" height="270" frameBorder="0" class="giphy-embed" allowFullScreen></iframe>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=uka03&label=Profile%20views&color=0e75b6&style=flat" alt="uka03" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=uka03" alt="uka03" /></a> </p>
