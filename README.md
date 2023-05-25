@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Uka Yura</h1>
 <h3 align="center">A passionate fullstack developer from Mongolia KHB</h3>
-<div class="tenor-gif-embed" data-postid="15306651" data-share-method="host" data-aspect-ratio="1.73913" data-width="100%"><a href="https://tenor.com/view/doraemon-magic-device-gif-15306651">Doraemon Magic GIF</a>from <a href="https://tenor.com/search/doraemon-gifs">Doraemon GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
+<img src="https://media.tenor.com/VjRAXbxBzjUAAAAd/doraemon-magic.gif" width="1000px"  />
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=uka03&label=Profile%20views&color=0e75b6&style=flat" alt="uka03" /> </p>
 
