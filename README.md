@@ -5,7 +5,6 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=uka03" alt="uka03" /></a> </p>
 
-https://i.imgur.com/1CssljC.gifv
 
 - 🔭 I’m currently working on [Foodie](https://foodie-woad.vercel.app/)
 
