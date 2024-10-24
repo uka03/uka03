@@ -7,9 +7,9 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=uka03" alt="uka03" /></a> </p>
 
 
-- 🔭 I’m currently working on [Foodie](https://foodie-woad.vercel.app/)
+- 🔭 I’m currently working on [Goodali](https://apps.apple.com/mn/app/goodali/id1661415299)
 
-- 🌱 I’m currently learning **reactJs, NextJs, NestJs**
+- 🌱 I’m currently learning **reactJs, NextJs, NestJs, Flutter, Dart**
 
 - 📚 Just Graduated [Pinecone](Pinecone)
 
